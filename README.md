@@ -16,7 +16,7 @@ Este repositório é dedicado exclusivamente à documentação do nosso servidor
   - [Diretrizes](#diretrizes)
   - [Tickets e Bugs](#tickets-e-bugs)
   - [Live Service](#live-service)
-- [Perguntas Frequentes (FAQ)](#perguntas-frequentes)
+- [Perguntas Frequentes (FAQ)](#perguntas-frequentes-faq)
 - [Funcionalidades](#funcionalidades)
 - [Contribuições](#contribuições)
 - [Contato](#contato)
